@@ -2,8 +2,6 @@
 
 I'm a **web and mobile full-stack developer** with expertise in **Next.js, FastAPI, and Expo** (TS / Python).
 
-> 🔍 **Currently:** Actively hunting for great B2B projects to work on and am intrigued by **vertical agents, fintech, and AR/VR**.
-
 ## 🚀 Recent Work
 
 **Most recently**, I was the sole technical co-founder of **DealQ**, the AI workflow platform for commercial real estate investors. You can find a showcase version of the codebase below with a technical markdown on how I architected the application. During the private beta, it served multiple enterprise users and was built with future scale in mind.
