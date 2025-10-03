@@ -15,7 +15,9 @@ I'm a **web and mobile full-stack developer** with expertise in **Next.js, FastA
 
 ## 📖 My Story
 
-I graduated from USC in 2022 and worked in structured finance in NYC for two years. I quit my job in August 2024 to teach myself software engineering. I spent six months learning a full stack curriculum and working on smaller projects before shipping larger scale, **enterprise-ready, production applications**.
+I graduated from USC in 2022 and worked in structured finance in NYC for two years. I quit my job in August 2024 to teach myself software engineering. I spent six months self-studying a full stack curriculum and working on smaller projects before starting to ship larger scale, **enterprise-ready, production applications**.
+
+Now, I'm ready to apply what I've learned to tackling some of the world's biggest problems.
 
 
 
