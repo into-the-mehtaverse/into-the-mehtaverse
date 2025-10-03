@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm a **web and mobile full-stack developer** with expertise in **Next.js, FastAPI, and Expo** (TS / Python).
+Hey I'm Shaan, a **web and mobile full-stack developer** with expertise in **Next.js, FastAPI, and Expo** (TS / Python). I'm highly intrigued by fintech and vertical agents serving outdated industries.
 
 ## 🚀 Recent Work
 
