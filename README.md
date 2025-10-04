@@ -9,7 +9,7 @@ Hey I'm Shaan, a **web and mobile full-stack developer** with expertise in **Nex
 **Prior to this**, I bootstrapped a consumer mobile app called **LastParlay** which was the **#1 app to quit sports betting**.
 
 ### 📅 Timeline of Projects:
-- **DealQ**: June 2025 - October 2025 - [Codebase showcase](https://github.com/into-the-mehtaverse/dealq-showcase)
+- **DealQ**: June 2025 - October 2025 - [Codebase Showcase + Technical Markdown](https://github.com/into-the-mehtaverse/dealq-showcase)
 - **Kibble**: May 2025 - June 2025 - [App Store](https://apps.apple.com/us/app/kibble-io/id6745099659)
 - **LastParlay**: March 2025 - May 2025 - [App Store](https://apps.apple.com/us/app/lastparlay/id6743965498)
 
